@@ -1,1 +1,26 @@
-/*  your css code here. If applicable */
+.container{
+	width:1100px;
+	background:yellowgreen
+}
+.top{
+	width:200px;
+	padding:10px;
+}
+.image1{
+	width:200px;
+	padding:10px;
+}
+.image2{
+	width:200px;
+	padding:10px;
+}
+.image3{
+	width:200px;
+	padding:10px;
+
+}
+.image4{
+	width:200px;
+	padding:10px;
+}
+
